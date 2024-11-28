@@ -220,8 +220,10 @@ Documentation:
 
 -   `FilterParams` type added (#7353)
 
-## [Unreleased]
+## [1.10.0]
 
 #### Added
 
 -   Add signature related types. (#7374)
+
+## [Unreleased]

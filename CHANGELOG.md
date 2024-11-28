@@ -2820,4 +2820,10 @@ If there are any bugs, improvements, optimizations or any new feature proposal f
 
 -   Move signature related types to web3-types. Re-export them for backwards compatibility. (#7374)
 
+### Added
+
+#### web3-types
+
+-   Add signature related types. (#7374)
+
 ## [Unreleased]
