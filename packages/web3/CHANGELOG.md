@@ -560,10 +560,22 @@ Documentation:
 
 -   Fix Contract methods input param type any[] (#7340)
 
-## [Unreleased]
+## [4.16.0]
 
 ### Fixed
 
 #### web3
 
 -   Export Web3Account, Wallet and signature related types. (#7374)
+
+#### web3-utils
+
+-   Make `fromWei` return "0" when input is `0` (#7387)
+
+### Removed
+
+#### web3-eth-accounts
+
+-   Move signature related types to web3-types. Re-export them for backwards compatibility. (#7374)
+
+## [Unreleased]
