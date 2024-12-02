@@ -195,4 +195,8 @@ Documentation:
 
 -   Move signature related types to web3-types. Re-export them for backwards compatibility. (#7374)
 
+### Added
+
+-   Updated Typescript version 4 -> 5 (#7272)
+
 ## [Unreleased]

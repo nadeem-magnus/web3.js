@@ -246,4 +246,8 @@ Documentation:
 
 -   Make `fromWei` return "0" when input is `0` (#7387)
 
+### Added
+
+-   Updated Typescript version 4 -> 5 (#7272)
+
 ## [Unreleased]

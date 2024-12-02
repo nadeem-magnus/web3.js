@@ -578,4 +578,51 @@ Documentation:
 
 -   Move signature related types to web3-types. Re-export them for backwards compatibility. (#7374)
 
+### Added
+
+#### web3-types
+
+-   Add signature related types. (#7374)
+-   Updated Typescript version 4 -> 5 (#7272)
+
+#### web3-eth-accounts
+
+-   Updated Typescript version 4 -> 5 (#7272)
+
+#### web3
+
+-   Updated Typescript version 4 -> 5 (#7272)
+
+#### web3-core
+
+-   Updated Typescript version 4 -> 5 (#7272)
+
+#### web3-account-abstraction
+
+-   RC release
+
+#### web3-errors
+
+-   Updated Typescript version 4 -> 5 (#7272)
+
+#### web3-eth
+
+-   Updated Typescript version 4 -> 5 (#7272)
+
+#### web3-eth-contract
+
+-   Updated Typescript version 4 -> 5 (#7272)
+
+#### web3-rpc-providers
+
+-   Updated Typescript version 4 -> 5 (#7272)
+
+#### web3-utils
+
+-   Updated Typescript version 4 -> 5 (#7272)
+
+#### web3-eth-abi
+
+-   Updated Typescript version 4 -> 5 (#7272)
+
 ## [Unreleased]

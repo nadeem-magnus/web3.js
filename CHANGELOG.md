@@ -2792,10 +2792,6 @@ If there are any bugs, improvements, optimizations or any new feature proposal f
 
 -   `FilterParams` type added (#7353)
 
-#### web3-account-abstraction
-
--   RC release
-
 ### Fixed
 
 #### web3-eth-contracts
@@ -2825,5 +2821,46 @@ If there are any bugs, improvements, optimizations or any new feature proposal f
 #### web3-types
 
 -   Add signature related types. (#7374)
+-   Updated Typescript version 4 -> 5 (#7272)
+
+#### web3-eth-accounts
+
+-   Updated Typescript version 4 -> 5 (#7272)
+
+#### web3
+
+-   Updated Typescript version 4 -> 5 (#7272)
+
+#### web3-core
+
+-   Updated Typescript version 4 -> 5 (#7272)
+
+#### web3-account-abstraction
+
+-   RC release
+
+#### web3-errors
+
+-   Updated Typescript version 4 -> 5 (#7272)
+
+#### web3-eth
+
+-   Updated Typescript version 4 -> 5 (#7272)
+
+#### web3-eth-contract
+
+-   Updated Typescript version 4 -> 5 (#7272)
+
+#### web3-rpc-providers
+
+-   Updated Typescript version 4 -> 5 (#7272)
+
+#### web3-utils
+
+-   Updated Typescript version 4 -> 5 (#7272)
+
+#### web3-eth-abi
+
+-   Updated Typescript version 4 -> 5 (#7272)
 
 ## [Unreleased]
