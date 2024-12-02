@@ -2803,3 +2803,13 @@ If there are any bugs, improvements, optimizations or any new feature proposal f
 -   Fix Contract methods input param type any[] (#7340)
 
 ## [Unreleased]
+
+### Fixed
+
+#### web3
+
+-   Export Web3Account, Wallet and signature related types. (#7374)
+
+#### web3-utils
+
+-   Make `fromWei` return "0" when input is `0` (#7387)
