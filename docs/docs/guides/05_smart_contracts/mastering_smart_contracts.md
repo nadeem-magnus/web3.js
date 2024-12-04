@@ -87,7 +87,7 @@ import { Contract } from 'web3-eth-contract';
 // alternatively, you can instantiate the Contract without a provider and set it later using contract.setProvider()
 const abi = [{...}];
 const address = '0x...';
-const contract = new Contract(abi, address { provider: 'http://127.0.0.1:8545' });
+const contract = new Contract(abi, address, { provider: 'http://127.0.0.1:8545' });
 
 // the provider can be set like this if not provided at the constructor:
 contract.setProvider('http://127.0.0.1:7545');
